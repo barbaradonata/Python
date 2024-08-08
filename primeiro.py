@@ -1,0 +1,10 @@
+# pessoa = input("Digite o nome pessoa: ")
+# print("Boa noite", pessoa)
+# idade = input("Qual a sua idade? ")
+# print("Nossa! Você ja tem ", idade, "anos")
+# email = input("Digite seu e-mail: ")
+# print(email, "Validado com sucesso!")
+
+numero = input("digite um número ")
+outronumero = input("digite outro número ")
+print("A soma é", float(numero) + float(outronumero))
